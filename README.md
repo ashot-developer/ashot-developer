@@ -5,6 +5,11 @@ I really love my job and every challenge in the way of the working process, whic
 At this moment I work and lead the “IT Training Center” of my own village. We aim to uplift the IT level in the village.
 I move on with these guide ideas, dream, believe, do, repeat. And most of all NEVER GIVE UP.
 
+**Basic skills are;**
+* HTML5, CSS3, FlexBox, SCSS, LESS, Gulp
+* JavaScript, Vue.js, Quasar
+* PHP, Laravel, Wordpress
+
 <!--
 **ashot-developer/ashot-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
