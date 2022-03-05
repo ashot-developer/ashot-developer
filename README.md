@@ -1,4 +1,4 @@
-### Hey there
+### Hey there <img src="https://emoji.discord.st/emojis/aac71f52-b538-457e-acb8-c8eb89ba91b2.gif" width="25px">
 
 I am a Full Stack Web Developer with 2+ years of experience both in front-end and back-end development.
 I really love my job and every challenge in the way of the working process, which motivates me to learn, grow and move forward.
