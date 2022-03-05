@@ -1,4 +1,4 @@
-### Hi there <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fwave-emoji-gifs&psig=AOvVaw0ULUQ2wctrmkUI-wXqThES&ust=1646554833964000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDbu_XErvYCFQAAAAAdAAAAABAD" width="25px">
+### Hi there <img src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width="25px">
 
 <!--
 **ashot-developer/ashot-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
