@@ -1,4 +1,9 @@
-### Hi there <img src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width="25px">
+### Hey there
+
+I am a Full Stack Web Developer with 2+ years of experience both in front-end and back-end development.
+I really love my job and every challenge in the way of the working process, which motivates me to learn, grow and move forward.
+At this moment I work and lead the “IT Training Center” of my own village. We aim to uplift the IT level in the village.
+I move on with these guide ideas, dream, believe, do, repeat. And most of all NEVER GIVE UP.
 
 <!--
 **ashot-developer/ashot-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
