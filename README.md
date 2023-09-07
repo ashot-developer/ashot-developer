@@ -1,6 +1,7 @@
 ### Hey there <img src="https://emoji.discord.st/emojis/aac71f52-b538-457e-acb8-c8eb89ba91b2.gif" width="25px">
 
 I am a dedicated Full Stack Web Developer with over 3 years of experience in both front-end and back-end development. Passionate about my work, I embrace every challenge that comes my way, constantly striving to learn, grow, and push boundaries.
+
 Currently, I am actively involved in leading the "IT Training Center" in my village, where our mission is to elevate the IT standards within the community. Guided by the principles of dreaming, believing, doing, and repeating, I am committed to never giving up on our goals.
 
 **Basic skills are;**
