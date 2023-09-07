@@ -1,14 +1,12 @@
 ### Hey there <img src="https://emoji.discord.st/emojis/aac71f52-b538-457e-acb8-c8eb89ba91b2.gif" width="25px">
 
-I am a Full Stack Web Developer with 2+ years of experience both in front-end and back-end development.
-I really love my job and every challenge in the way of the working process, which motivates me to learn, grow and move forward.
-At this moment I work and lead the “IT Training Center” of my own village. We aim to uplift the IT level in the village.
-I move on with these guide ideas, dream, believe, do, repeat. And most of all NEVER GIVE UP.
+I am a dedicated Full Stack Web Developer with over 3 years of experience in both front-end and back-end development. Passionate about my work, I embrace every challenge that comes my way, constantly striving to learn, grow, and push boundaries.
+Currently, I am actively involved in leading the "IT Training Center" in my village, where our mission is to elevate the IT standards within the community. Guided by the principles of dreaming, believing, doing, and repeating, I am committed to never giving up on our goals.
 
 **Basic skills are;**
 * HTML5, CSS3, FlexBox, SCSS, LESS, Gulp
-* JavaScript, Vue.js, Quasar
-* PHP, Laravel, Wordpress
+* JavaScript, TypeScript, Angular, Vue.js, Quasar
+* PHP, Laravel, WordPress
 
 <!--
 **ashot-developer/ashot-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
